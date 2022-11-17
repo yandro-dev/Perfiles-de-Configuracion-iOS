@@ -1,1 +1,1 @@
-# Perfiles-de-Configuraci-n-iOS
+# Perfiles-de-Configuracion-iOS
